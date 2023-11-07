@@ -7,7 +7,8 @@ Basics will be 10 Dashboard from 10 top domains related to Customer Analytics. E
 4 Charts: Below the KPI metrics, offering detailed insights.
 
 ## Level 1: Basics - Customer Analytics Across 10 Domains
-Dashboard 1: Retail
+
+## Dashboard 1: Retail
 KPI Metrics: Monthly Sales, Average Transaction Value, Customer Retention Rate, New Customers Acquired
 Charts: Monthly Sales Trend, Product Category Sales, Customer Demographics, Peak Shopping Hours
 
